@@ -1,0 +1,6 @@
+ "You don’t go to the zoo to see chihuahuas and raccoons; you go to admire the majestic polar bear, the graceful zebra, and the terrifying Sumatran tiger"
+ "it should be no surprise that the most common data graphics, including bar charts, line charts, and scatter plots, use position encodings"
+ "Although a map may seem a natural way to visualize geographical data, it has a long and rich history of design."
+ "try deconstructing the various visualizations"
+  Dendrogram
+  Seriation
